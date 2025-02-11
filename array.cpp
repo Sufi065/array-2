@@ -28,15 +28,13 @@ class strength : private student{
            int getstudentusn(){
                return getusn();
            }
+
            void setstudent(char *ptr,int r,int w,int h){
                setname(ptr);
                setusn(r);
                weight=w;
                height=h;
-               
-           }
-    
-    
+           }    
 };
 int main()
 {

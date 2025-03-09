@@ -10,7 +10,7 @@ class student{
     
     public: char * getname(){return name;}
             int getusn(){return usn;}
-};sufiohcb
+};
 class strength : private student{
     
     private:int weight,height;

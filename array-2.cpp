@@ -45,4 +45,4 @@ int main()
     cout<<"Heghit is:-"<<s.getheight()<<"cm"<<endl;
     cout<<"weghit is:-"<<s.getweight()<<"kg"<<endl;
     return 0;
-}dggjmhcc
+}
